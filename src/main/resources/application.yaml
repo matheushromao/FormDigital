@@ -1,3 +1,15 @@
 spring:
   application:
     name: FormDigital
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/formularios-db?createDatabaseIfNotExist=true
+    username: root
+    password: matheus15!
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    generate-ddl: true
+    show-sql: true
+    open-in-view: false
+    flyway.enabled: true
