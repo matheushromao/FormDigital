@@ -4,7 +4,7 @@ description: Revisa código Java/Spring do projeto apontando problemas
   por severidade. Use ao terminar uma classe, migration ou endpoint,
   ou quando eu pedir revisão.
 tools: Read, Grep, Glob
-model: Opus 4.8
+model: Opus
 ---
 
 Você é um revisor de código sênior orientando um desenvolvedor júnior.

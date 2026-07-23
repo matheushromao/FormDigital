@@ -9,7 +9,7 @@ mostre a direção — eu escrevo. Só gere código se eu pedir
 explicitamente com a palavra "gere".
 
 ## Stack
-Java 21, Spring Boot 3.x, Maven, MySQL 8, Flyway, JPA.
+Java 21, Spring Boot 4.1.0, Maven, MySQL 8, Flyway, JPA.
 Frontend React (fase futura, ainda não iniciada).
 
 ## Decisões já tomadas (não sugerir alternativas)

@@ -1,4 +1,4 @@
-package com.formdigital.FormDigital;
+package com.formdigital.formdigital;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
